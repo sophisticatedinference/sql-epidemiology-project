@@ -1,19 +1,12 @@
-# SQL Epidemiology Portfolio Project
+| stay | count_int | average_phq | average_scs | average_as |
+|------|-----------|-------------|-------------|------------|
+| 10 | 1 | 13.00 | 32.00 | 50.00 |
+| 8 | 1 | 10.00 | 44.00 | 65.00 |
+| 7 | 1 | 4.00 | 48.00 | 45.00 |
+| 6 | 3 | 6.00 | 38.00 | 58.67 |
+| 5 | 1 | 0.00 | 34.00 | 91.00 |
+| 4 | 14 | 8.57 | 33.93 | 87.71 |
+| 3 | 46 | 9.09 | 37.13 | 78.00 |
+| 2 | 39 | 8.28 | 37.08 | 77.67 |
+| 1 | 95 | 7.48 | 38.11 | 72.80 |
 
-## Overview
-This project demonstrates SQL skills applied to a public health dataset.
-
-## Objective
-To explore the data from a study on the mental health of international students, and find out which factors may have the greatest impact.
-
-## Skills Demonstrated
-- SQL joins
-- Aggregate functions
-- Window functions
-- Data cleaning
-- Database design
-
-## Files
-- data_dictionary.md: Variable definitions
-- sql_queries: SQL scripts
-- results: Output table
