@@ -1,19 +1,16 @@
-# SQL Epidemiology Portfolio Project
+Data Description  
 
-## Overview
-This project demonstrates SQL skills applied to a public health dataset.
+| Field Name    | Description                                      |
+| ------------- | ------------------------------------------------ |
+| `inter_dom`     | Types of students (international or domestic)   |
+| `japanese_cate` | Japanese language proficiency                    |
+| `english_cate`  | English language proficiency                     |
+| `academic`      | Current academic level (undergraduate or graduate) |
+| `age`           | Current age of student                           |
+| `stay`          | Current length of stay in years                  |
+| `todep`         | Total score of depression (PHQ-9 test)           |
+| `tosc`          | Total score of social connectedness (SCS test)   |
+| `toas`          | Total score of acculturative stress (ASISS test) |  
 
-## Objective
-To explore the data from a study on the mental health of international students, and find out which factors may have the greatest impact.
 
-## Skills Demonstrated
-- SQL joins
-- Aggregate functions
-- Window functions
-- Data cleaning
-- Database design
-
-## Files
-- data_dictionary.md: Variable definitions
-- sql_queries: SQL scripts
-- results: Output table
+Data contains 286 rows
